@@ -7,7 +7,6 @@ public class NumberGuessingGame {
 		int trials=100;
 		int totaltrials=100;
 		Scanner input=new Scanner(System.in);
-		boolean correct=false;
 		System.out.println("Let's play a game guess a number between 1 to 100. \n You have 5 tries to guess the correct number.");
 		while(trials >0)
 		{
